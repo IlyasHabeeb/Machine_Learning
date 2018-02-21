@@ -1,6 +1,6 @@
 This Assignment has been done together by Mohammed Ilyas Habeeb and Faiyaz Sundrani.
 
-This zip file contains three files:
+This folder contains five files:
 
 1. HW_1.ipynb - The iPython Notebook that contains the source code for the programming part in Assignment 1
 
@@ -8,7 +8,9 @@ This zip file contains three files:
 
 3. MLAssignment_1_Final.pdf - A pdf file that contains solutions for Assignment 1
 
-4. predictionsHW1.csv - A .csv file that contains the predictions of:
+4. glasshw1.csv - the dataset for this assignment
+
+5. predictionsHW1.csv - A .csv file that contains the predictions of:
 
 - Gaussian Naive Bayes (for entire 200 examples)
 - Gaussian Naive Bayes (for cross validation)
