@@ -15,6 +15,6 @@ This folder contains five files:
 
 3. Written_Ans.pdf - A pdf file that contains solutions for the written part of Assignment 2
 
-4. Programming_Ans.pdf - A pdf file that contains solutions for the written part of Assignment 2
+4. Programming_Ans.pdf - A pdf file that contains solutions for the programming part of Assignment 2
 
 5. Data - A folder that contains the dataset for this assignment

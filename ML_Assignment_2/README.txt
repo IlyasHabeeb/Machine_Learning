@@ -1,17 +1,20 @@
-This Assignment has been done together by Mohammed Ilyas Habeeb and Faiyaz Sundrani.
+Summary:
 
-This zip file contains three files:
+Programming Task - To predict the miles per gallon (mpg) of a car, given its displacement and horsepower.
 
-1. HW_1.ipynb - The iPython Notebook that contains the source code for the programming part in Assignment 1
+Machine Learning Algorithms Implemented:
 
-2. HW_1.txt - A .txt file for the same iPython notebook as above. This file is for safety purpose if the above .ipynb file does not open. Just change the extension of this file from .txt to .ipynb to view the source code
+Implemented K-Nearest Neighbors from scratch (without using scikit-learn)
+Implemented Linear Regression and Polynomial Regression using scikit-learn
 
-3. MLAssignment_1_Final.pdf - A pdf file that contains solutions for Assignment 1
+This folder contains five files:
 
-4. predictionsHW1.csv - A .csv file that contains the predictions of:
+1. hw2_2018s.pdf - A pdf file that contains the questions for Assignment 2
 
-- Gaussian Naive Bayes (for entire 200 examples)
-- Gaussian Naive Bayes (for cross validation)
-- Zero R (for cross validation)
+2. HW2_P2_Prog.ipynb - The iPython Notebook that contains the source code for the programming part in Assignment 2
 
+3. Written_Ans.pdf - A pdf file that contains solutions for the written part of Assignment 2
 
+4. Programming_Ans.pdf - A pdf file that contains solutions for the programming part of Assignment 2
+
+5. Data - A folder that contains the dataset for this assignment
