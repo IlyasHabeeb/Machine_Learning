@@ -1,0 +1,25 @@
+1. Title: Auto-Mpg Data
+
+2. Sources:
+   This is a version of a dataset from the UCI Irvine Repository, adapted by L. Hellerstein for use in CS6923 in 2018
+   (a) Origin:  The original dataset was taken from the StatLib library which is
+                maintained at Carnegie Mellon University. The dataset was 
+                used in the 1983 American Statistical Association Exposition.
+   (b) Date: July 7, 1993
+
+3. Past Usage:
+    -  Quinlan,R. (1993). Combining Instance-Based and Model-Based Learning.
+       In Proceedings on the Tenth International Conference of Machine 
+       Learning, 236-243, University of Massachusetts, Amherst. Morgan
+       Kaufmann.
+
+4. Number of Instances: 291 in the training set, 100 in the test set
+
+5. Number of Attributes: 2 continuous input attributes, one continuous output
+
+6. Attribute Information:
+
+    1. displacement:  continuous 
+    2. horsepower:    continuous
+    3. mpg:           continuous (output)
+
